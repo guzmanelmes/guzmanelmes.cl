@@ -169,7 +169,8 @@ nav {
     background-image: url('./images/fondo2.jpg');*/
     background-position: center center;
     background-size: cover;
-    height: 100vh;
+    width: auto;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -179,7 +180,7 @@ nav {
 
 .Portafolio-Centrar {
     position: absolute;
-    margin-top: -14em;
+    margin-top: -17em;
     display: block;
     text-align: center;
     text-transform: uppercase;
